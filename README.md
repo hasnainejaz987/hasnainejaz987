@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**hasnainejaz987/hasnainejaz987** is a ✨ _special_ ✨ # 💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on<br>AI & Machine Learning projects, including data analysis, classification models, and practical ML applications.<br><br>👯 I’m looking to collaborate on<br>Machine Learning, Deep Learning, Computer Vision, and AI-based research or student projects.<br><br>🤝 I’m looking for help with<br>Advanced ML algorithms, model optimization, and real-world AI deployments.<br><br>🌱 I’m currently learning<br>Machine Learning, Deep Learning, Neural Networks, and AI model implementation using Python.<br><br>💬 Ask me about<br>Machine Learning concepts, Python, data preprocessing, and basic AI workflows.
 
 
@@ -18,16 +15,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=hasnainejaz987&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
